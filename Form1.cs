@@ -191,6 +191,7 @@ namespace CalculadoraSimples
 
         private void buttonDarkMode_Click(object sender, EventArgs e)
         {
+            // Isto é um comentário.
            
             if (BackColor == Color.Black)
             {
